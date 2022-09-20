@@ -1,2 +1,4 @@
 # html-com-JavaScript
-adivinha numero
+- Adivinha numero.
+- projeto iniciante.
+- apenas o basico para treino.
